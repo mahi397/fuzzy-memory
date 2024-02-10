@@ -1,4 +1,4 @@
-# Software Developer &nbsp; | &nbsp; NLP Enthusiast &nbsp; | &nbsp; Artist
+# Software Developer &nbsp; | &nbsp; Artist &nbsp; | &nbsp; NLP Enthusiast
 <br>
 ## A little about me...
 - I graduated from NSIT with a Bachelors in Information Technology, and have since been working in the software engineering domain.
