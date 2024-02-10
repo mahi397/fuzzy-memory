@@ -1,4 +1,4 @@
-# Software Developer &nbsp; | &nbsp; Artist &nbsp; | &nbsp; NLP Enthusiast
+# Software Developer &nbsp; | &nbsp; NLP Enthusiast &nbsp; | &nbsp; Artist
 <br>
 ## A little about me...
 - I graduated from NSIT with a Bachelors in Information Technology, and have since been working in the software engineering domain.
@@ -37,5 +37,5 @@ I have an eye for good aesthetics. I'm extremely selective about fonts, and I en
 
 <br>
 ### Get in touch!
-[LinkedIn](https://www.linkedin.com/in/mahimasachdeva/)
+[LinkedIn](https://www.linkedin.com/in/mahimasachdeva/) &nbsp;
 [Instagram](https://www.instagram.com/wrongsock/)
