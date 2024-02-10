@@ -1,5 +1,5 @@
 # Software Developer &nbsp; | &nbsp; Artist &nbsp; | &nbsp; NLP Enthusiast
-
+<br>
 ## A little about me...
 - I graduated from NSIT with a Bachelors in Information Technology, and have since been working in the software engineering domain.
 - I work on Software Globalization at Adobe. Frontend development excites me, and my current area of research is Natural Language Processing in Indic languages.
@@ -32,6 +32,15 @@ An implementation of Neural Style Transfer with PyTorch, infusing diverse artist
 A personalized movie recommendation system that utilizes both content-based filtering and collaborative filtering techniques. Trained on MovieLens dataset.
 
 
-## Trivia
+### Trivia
 I have an eye for good aesthetics. I'm extremely selective about fonts, and I enjoy playing with colours.
 
+
+### Get in touch!
+[![fa-linkedin](/assets/img/linkedin.svg 'LinkedIn')](https://www.linkedin.com/in/mahimasachdeva/)
+[![fa-github](/assets/img/github.svg 'GitHub')](https://github.com/mahi397/)
+[![fa-instagram](/assets/img/instagram.svg 'Instagram')](https://www.instagram.com/wrongsock/)
+
+<img src="/assets/img/linkedin.svg" width="50" height="50">[](https://www.linkedin.com/in/mahimasachdeva/)</img>
+<img src="/assets/img/github.svg" width="50" height="50"> [](https://github.com/mahi397/)</img>
+<img src="/assets/img/instagram.svg" width="50" height="50"> [](https://www.instagram.com/wrongsock/)</img>
