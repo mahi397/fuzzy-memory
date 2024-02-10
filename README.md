@@ -17,7 +17,7 @@ I've worked with **TypeScript, React, and Python** across numerous software loca
 
 ## Projects
 ### [FaceTag](https://github.com/mahi397/FaceTag)
-![Facetag](/assets/img/face.png)
+![Facetag](/assets/img/face1.png)
 
 A face recognition and image tagging system trained on LFW and Pins datasets, which recognizes and tags faces in a given image regardless of their vertical orientation.
 
@@ -27,7 +27,7 @@ A face recognition and image tagging system trained on LFW and Pins datasets, wh
 An implementation of Neural Style Transfer with PyTorch, infusing diverse artistic styles into images. Trained on Microsoft COCO (Common Objects in COntext) dataset.
 
 ### [PickMeAMovie](https://github.com/mahi397/PickMeAMovie)
-![Movie](/assets/img/mov.png)
+![Movie](/assets/img/mov1.png)
 
 A personalized movie recommendation system that utilizes both content-based filtering and collaborative filtering techniques. Trained on MovieLens dataset.
 
